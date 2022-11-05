@@ -1,9 +1,10 @@
 # ERC20-MINIPROJECT
 Tech4dev ERC20 Standard Mini project - Mercia Ravelontsoa
 
-ERC20 Tech4dev Miniproject 
+This is my ERC20 Tech4dev Miniproject 
 
-Creation of an Erc20 standard Token name: Tech4dev Token, Symbol is T4D and decimal is 18. 
+Creation of an Erc20 standard Token, 
+Name is Tech4dev Token, Symbol is T4D and decimal is 18. 
 
 Deployment was made on Ethereum testnet, Binance testnet and Polygon testnet. 
 
